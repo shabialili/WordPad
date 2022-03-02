@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21f8bd38-8b9c-43cd-823d-1a08525c0159": {
+      "ProjectGuid": "21f8bd38-8b9c-43cd-823d-1a08525c0159",
+      "DisplayName": "WordPad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
